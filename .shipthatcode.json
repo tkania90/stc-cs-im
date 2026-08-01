@@ -1,0 +1,46 @@
+{
+  "course": "csharp-intermediate",
+  "language": "csharp",
+  "language_id": 51,
+  "entrypoint": "main.cs",
+  "version": 1,
+  "content_hash": "396395305267c25b",
+  "lessons": [
+    {
+      "slug": "generics",
+      "tests_hash": "4619480b083e"
+    },
+    {
+      "slug": "linq",
+      "tests_hash": "cbe6c1fdb32b"
+    },
+    {
+      "slug": "properties",
+      "tests_hash": "1cbd1a5cf5d2"
+    },
+    {
+      "slug": "async",
+      "tests_hash": "23470cc14626"
+    },
+    {
+      "slug": "records-patterns",
+      "tests_hash": "bbe03b22b1fe"
+    },
+    {
+      "slug": "nullable",
+      "tests_hash": "3415b01ddc44"
+    },
+    {
+      "slug": "delegates-events",
+      "tests_hash": "2bc367c7b258"
+    },
+    {
+      "slug": "idisposable",
+      "tests_hash": "4f3db3c94b0f"
+    },
+    {
+      "slug": "parallel-tasks",
+      "tests_hash": "c303f07c0720"
+    }
+  ]
+}
